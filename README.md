@@ -1,1 +1,1 @@
- we are take a one list from left side than drop a right list.
+ we are take a one list from left side than drop a right side.
